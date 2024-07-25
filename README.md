@@ -11,11 +11,11 @@ Prediction of protein-protein binding (PPB) affinity plays an important role in 
 ### 1.Preprocess each source data-set separately
 We preprocess the source dataset by running the notebook files separately, there are:
 
-> process_Affinity Benchmark v5.5
-> process_ATLAS.ipynb
-> process_PDBbind v2020.ipynb
-> process_SAbDab.ipynb
-> process_SKEMPI v2.0.ipynb
+* process_Affinity Benchmark v5.5.ipynb
+* process_ATLAS.ipynb
+* process_PDBbind v2020.ipynb
+* process_SAbDab.ipynb
+* process_SKEMPI v2.0.ipynb
 
 ### 2. Merge the preprocessed source data-sets
 Run **merge.ipynb** to merge the preprocessed source data-sets.
