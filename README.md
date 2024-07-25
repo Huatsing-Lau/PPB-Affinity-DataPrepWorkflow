@@ -18,7 +18,7 @@ We preprocess the source dataset by running the notebook files separately, there
 * process_SKEMPI v2.0.ipynb
 
 ### 2. Merge the preprocessed source data-sets
-Run **merge.ipynb** to merge the preprocessed source data-sets.
+Run **merge.ipynb** to merge the preprocessed source data-sets to obtain the PPB Affinity dataset.
 
 
 ## How to develop an affinity prediction AI utilizing PPB-Affinity？
